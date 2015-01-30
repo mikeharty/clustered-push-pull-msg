@@ -17,7 +17,7 @@ if(cluster.isMaster) {
         if(message.type == 'ready') {
             // Log online workers
             console.log(message.pid + ' came online');
-            // Initialize worker
+            // Initialize worker jobs completed counter
             workerJobsCompleted[message.pid] = 0;
             // Tally ready workers
             readyWorkers++;
