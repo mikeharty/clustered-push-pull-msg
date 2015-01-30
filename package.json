@@ -1,5 +1,5 @@
 {
-  "name": "Clustered Push/Pull Messaging Test",
+  "name": "clustered-push-pull-msg",
   "version": "0.0.0",
   "description": "Push/Pull messaging demo with ZeroMQ + Clusters",
   "main": "app.js",
