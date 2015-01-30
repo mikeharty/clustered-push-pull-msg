@@ -1,0 +1,16 @@
+{
+  "name": "Clustered Push/Pull Messaging Test",
+  "version": "0.0.0",
+  "description": "Push/Pull messaging demo with ZeroMQ + Clusters",
+  "main": "app.js",
+  "dependencies": {
+    "underscore": "^1.7.0",
+    "zmq": "^2.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
